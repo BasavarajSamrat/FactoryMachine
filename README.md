@@ -23,6 +23,7 @@ The system is designed with correctness, thread safety, and performance as prima
 ## Architecture
 
 The application follows a traditional layered architecture:
+---
 ![Architecture](img/architecture.png)
 
 
