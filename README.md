@@ -217,7 +217,7 @@ http://localhost:8080
 
 ---
 
-##8. Improvements With More Time
+## 8. Improvements With More Time
 
 With additional time, the following enhancements would be considered:
 
